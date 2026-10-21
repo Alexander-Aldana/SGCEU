@@ -1,4 +1,9 @@
+package com.sgceu;
 import java.util.Scanner;
+
+import com.sgceu.modelo.usuario.Usuario;
+import com.sgceu.modelo.usuario.UsuarioDueno;
+import com.sgceu.modelo.usuario.UsuarioEmpleado;
 
 public class Main {
     // Simulamos la base de datos de usuarios del sistema

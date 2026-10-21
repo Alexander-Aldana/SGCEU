@@ -1,3 +1,4 @@
+package com.sgceu.modelo.usuario;
 public class UsuarioEmpleado extends Usuario {
 
     public UsuarioEmpleado(String nombre, String username, String contrasena) {

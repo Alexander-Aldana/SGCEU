@@ -1,0 +1,8 @@
+# Archivos compilados y generados por Maven
+target/
+
+# Archivos compilados de Java
+*.class
+
+# Configuración local de VS Code
+.vscode/

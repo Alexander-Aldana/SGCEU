@@ -1,3 +1,4 @@
+package com.sgceu.modelo.usuario;
 public class Usuario {
     private String nombre;
     private String username;
